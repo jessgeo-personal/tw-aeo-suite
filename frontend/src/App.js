@@ -5,7 +5,7 @@ import {
   ExternalLink, BarChart3, List, BookOpen, Sparkles
 } from 'lucide-react';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = '/api';
 
 // ============================================================
 // SHARED COMPONENTS
